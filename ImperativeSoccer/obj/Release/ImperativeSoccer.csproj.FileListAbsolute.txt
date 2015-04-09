@@ -1,0 +1,19 @@
+C:\Users\kharesp\Documents\Visual Studio 2013\Projects\ImperativeSoccer\ImperativeSoccer\bin\Release\ImperativeSoccer.exe.config
+C:\Users\kharesp\Documents\Visual Studio 2013\Projects\ImperativeSoccer\ImperativeSoccer\bin\Release\ImperativeSoccer.exe
+C:\Users\kharesp\Documents\Visual Studio 2013\Projects\ImperativeSoccer\ImperativeSoccer\bin\Release\ImperativeSoccer.pdb
+C:\Users\kharesp\Documents\Visual Studio 2013\Projects\ImperativeSoccer\ImperativeSoccer\bin\Release\nddsdotnet45.dll
+C:\Users\kharesp\Documents\Visual Studio 2013\Projects\ImperativeSoccer\ImperativeSoccer\bin\Release\soccer_type.dll
+C:\Users\kharesp\Documents\Visual Studio 2013\Projects\ImperativeSoccer\ImperativeSoccer\bin\Release\nddsdotnet45.pdb
+C:\Users\kharesp\Documents\Visual Studio 2013\Projects\ImperativeSoccer\ImperativeSoccer\bin\Release\soccer_type.pdb
+C:\Users\kharesp\Documents\Visual Studio 2013\Projects\ImperativeSoccer\ImperativeSoccer\obj\Release\ImperativeSoccer.exe
+C:\Users\kharesp\Documents\Visual Studio 2013\Projects\ImperativeSoccer\ImperativeSoccer\obj\Release\ImperativeSoccer.pdb
+E:\dev_environ\ImperativeSoccer\ImperativeSoccer\bin\Release\ImperativeSoccer.exe
+E:\dev_environ\ImperativeSoccer\ImperativeSoccer\bin\Release\nddsdotnet45.dll
+E:\dev_environ\ImperativeSoccer\ImperativeSoccer\bin\Release\soccer_type.dll
+E:\dev_environ\ImperativeSoccer\ImperativeSoccer\bin\Release\ImperativeSoccer.exe.config
+E:\dev_environ\ImperativeSoccer\ImperativeSoccer\bin\Release\ImperativeSoccer.pdb
+E:\dev_environ\ImperativeSoccer\ImperativeSoccer\bin\Release\nddsdotnet45.pdb
+E:\dev_environ\ImperativeSoccer\ImperativeSoccer\bin\Release\soccer_type.pdb
+E:\dev_environ\ImperativeSoccer\ImperativeSoccer\obj\Release\ImperativeSoccer.exe
+E:\dev_environ\ImperativeSoccer\ImperativeSoccer\obj\Release\ImperativeSoccer.pdb
+E:\dev_environ\ImperativeSoccer\ImperativeSoccer\obj\Release\ImperativeSoccer.csprojResolveAssemblyReference.cache
